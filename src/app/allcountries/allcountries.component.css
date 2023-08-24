@@ -1,0 +1,28 @@
+
+.table{
+    position: absolute;
+    color: black;
+
+}
+h2{
+    background:gray;
+     color:white;
+     border-radius: 8px;
+     padding: 8px;
+     width:500px;
+     position: absolute;
+     top:8rem;
+}
+.table th, .table td{
+    color: black;
+
+}
+.india{
+
+    height:160px;
+    position: absolute;
+    top:-20px;
+    width:60%;
+
+    
+}

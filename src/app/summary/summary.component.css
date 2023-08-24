@@ -1,0 +1,32 @@
+.summary{
+    height:40px;
+    width:410px;
+    color: white;
+    background:red;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 32px;
+    margin-left:37rem;
+    margin-top: 10rem;;
+    padding: 5px;
+    border-radius:8px;
+
+}
+.data{
+    padding: 15px;
+    margin-top: 2rem;
+    background-color: #45046a;
+}
+.dbTitle,.dbValue{
+    padding: 10px;
+    margin-bottom: 6px;
+    background-color:indigo;
+    width:360px;
+    border-radius: 10px;
+}
+/* {
+    background-color:indigo;
+    width:360px;
+    border-radius: 10px;
+
+} */
